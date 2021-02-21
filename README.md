@@ -1,5 +1,4 @@
 # ProdutoServiceSeed
- Service to consult products, belongs to the project https://github.com/users/ViniciusMargotti/projects/6
-
+ Service to consult products Pagination
 # Dependencies
 JDK 8+
